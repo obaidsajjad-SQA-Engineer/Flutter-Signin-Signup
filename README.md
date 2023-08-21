@@ -1,6 +1,6 @@
 # signin_signup
 
-A new Flutter project.
+Responsive Flutter UI design for Android and iOS.
 
 ## Getting Started
 
