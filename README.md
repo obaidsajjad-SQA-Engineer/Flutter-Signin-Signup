@@ -1,16 +1,39 @@
-# signin_signup
+<h1 align="center" id="title">Flutter SignIn SignUP UI</h1>
 
-Responsive Flutter UI design for Android and iOS.
+<p align="center"><img src="https://socialify.git.ci/osmughal01/Flutter-Signin-Signup/image?issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-## Getting Started
+<p id="description">Beautiful responsive user interface design in flutter</p>
 
-This project is a starting point for a Flutter application.
+<h2>Project Screenshots:</h2>
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1692603965](https://github.com/osmughal01/Flutter-Signin-Signup/assets/100994047/26260448-7cb7-4683-a77e-e84d9e205d94)
+![Screenshot_1692603974](https://github.com/osmughal01/Flutter-Signin-Signup/assets/100994047/e4f7a974-b594-4582-b43a-13a68a71b34e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h2>🛠️ Installation Steps:</h2>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>1. In you IDE terminal run</p>
+
+```
+flutter pub get
+```
+
+<p>2. Execute</p>
+
+```
+run without debuging
+```
+
+<p>3. Final</p>
+
+```
+A beautiful UI is infront of you.
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Flutter
+*   Dart
